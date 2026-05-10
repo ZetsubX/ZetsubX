@@ -1,56 +1,60 @@
-<div align="center">
-  <img src="banner.svg" alt="STRAKH" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ZetsubX-8b5cf6?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Aisareru%20yori%20mo%20osorerareru%20kata%20ga%20yoi-6d28d9?style=flat"/>
+</p>
+---
 
-### 「 *Aisareru yori mo osore rareru kata ga yoi* 」
+## <span style="color:#8b5cf6;">about</span>
 
-*dev em formação · projetos caóticos · JS addict*
-
-</div>
+```txt
+name: 
+alias: ZetsubX
+location: 
+focus: software / ideas
+```
 
 ---
 
-## `// skills & tecnologias`
+## status
 
-![JavaScript](https://img.shields.io/badge/JavaScript-d4a017?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-00b4d8?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white)
+```txt
+currently: building & learning
+availability: low
+communication: minimal
+```
 
 ---
 
-## `// github stats`
+## mindset
 
-<div align="center">
-
-![Voxfailure's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voxfailure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxfailure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)
-
-</div>
+* consistency over motivation
+* actions > words
+* less noise, more work
+* long-term thinking
 
 ---
 
-## `// projetos em destaque`
+## interests
 
-<div align="center">
-
-[![impossivel](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=impossivel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/impossivel)
-[![fruitninja](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=fruitninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/fruitninja)
-[![barco](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=barco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/barco)
-[![jogoimpossivel](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=jogoimpossivel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/jogoimpossivel)
-
-</div>
+* development
+* systems & logic
+* music (headphones always on)
+* late-night focus
 
 ---
 
-<div align="center">
+## contact
 
-`> "ser temido é melhor que ser amado"` · **github.com/Voxfailure**`_`
+```txt
+github: you're here
+other: not public
+```
 
-</div>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="280"/>
+</p>
