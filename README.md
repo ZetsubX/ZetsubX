@@ -1,13 +1,8 @@
-
-███████╗███████╗████████╗███████╗██╗   ██╗██████╗ ██╗  ██╗
- ╚══███╔╝██╔════╝╚══██╔══╝██╔════╝██║   ██║██╔══██╗╚██╗██╔╝
-   ███╔╝ █████╗     ██║   ███████╗██║   ██║██████╔╝ ╚███╔╝ 
-  ███╔╝  ██╔══╝     ██║   ╚════██║██║   ██║██╔══██╗ ██╔██╗ 
- ███████╗███████╗   ██║   ███████║╚██████╔╝██████╔╝██╔╝ ██╗
- ╚══════╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
 <div align="center">
+  <img src="banner.svg" alt="STRAKH" width="100%"/>
+</div>
 
-<sub>voxfailure</sub>
+<div align="center">
 
 ### 「 *Aisareru yori mo osore rareru kata ga yoi* 」
 
@@ -49,34 +44,6 @@
 [![fruitninja](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=fruitninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/fruitninja)
 [![barco](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=barco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/barco)
 [![jogoimpossivel](https://github-readme-stats.vercel.app/api/pin/?username=Voxfailure&repo=jogoimpossivel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e)](https://github.com/Voxfailure/jogoimpossivel)
-
-</div>
-
----
-
-## `// atividade`
-
-<div align="center">
-
-```
-                                                          \
-                                                      \    \
-        .                                          /´`\  \ \\
-       /=\            /´`\    /¯¯¯\              / /´`\\ \ \\
-      / ^ \          / /`\ \ / /_\ \           _/ /  / \\  \\
-     /  _  \        /_/   \_X_/   \_\         / \/  /  / \\ \\___
-    / /( )\ \      |  .    / \   . |          \  \ /  / /  \\ \  /
-   / /  _  \ \     |  |   / 0 \   |            \ / \ / /    \  \/
-  /_/ ./ \. \_\    \  \__/     \__/              \   \/       \  \
-      |   |         \                             \           /   |
-      |   |          \___________________________/           /    |
-      |   |                                                  /     |
-     (     )                    🐧 tux                      /      |
-      \   /                                                 |       /
-       \_/                                                  |      /
-                                                            \     /
-                                                             \___/
-```
 
 </div>
 
